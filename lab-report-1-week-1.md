@@ -11,3 +11,5 @@ cp /home/linux/ieng6/cs15lfa22/public/hello.txt ~/
 cat /home/linux/ieng6/cs15lfa22/public/hello.txt<img width="781" alt="Screen Shot 2022-09-30 at 7 44 06 PM" src="https://user-images.githubusercontent.com/100493743/193380037-629134bf-f31d-4522-8ce6-de0cf29a19fe.png">
 I had java installed my sytem so I first ran the file WhereAmI.java using that then I used the scp command and tried again I got the same output both the times
 The command was scp WhereAmI.java xxxx@ieng6.ucsd.edu:~/
+<img width="803" alt="Screen Shot 2022-09-30 at 8 04 16 PM" src="https://user-images.githubusercontent.com/100493743/193384144-91495a0e-c765-45d8-a507-aafd8017c4eb.png">
+The step where I have to login without the password didn't work for me, even though I followed all the steps , I intend to attend the office hours this week and setup by cs15lfa22 ssh account, because I have tried everything but it is still not working. 
