@@ -11,7 +11,8 @@ cp /home/linux/ieng6/cs15lfa22/public/hello.txt ~/
 cat /home/linux/ieng6/cs15lfa22/public/hello.txt<img width="781" alt="Screen Shot 2022-09-30 at 7 44 06 PM" src="https://user-images.githubusercontent.com/100493743/193380037-629134bf-f31d-4522-8ce6-de0cf29a19fe.png">
 I had java installed my sytem so I first ran the file WhereAmI.java using that then I used the scp command and tried again I got the same output both the times
 The command was scp WhereAmI.java xxxx@ieng6.ucsd.edu:~/
-<img width="803" alt="Screen Shot 2022-09-30 at 8 04 16 PM" src="https://user-images.githubusercontent.com/100493743/193384144-91495a0e-c765-45d8-a507-aafd8017c4eb.png">
+<img width="799" alt="Screen Shot 2022-09-30 at 8 19 29 PM" src="https://user-images.githubusercontent.com/100493743/193384485-460e5aaa-3bc8-4f2b-952f-0c3fa321998d.png">
+
 <img width="802" alt="Screen Shot 2022-09-30 at 8 15 10 PM" src="https://user-images.githubusercontent.com/100493743/193384374-819d1ac4-0a32-4b6e-a4bd-f272cc9ec8d3.png"><img width="785" alt="Screen Shot 2022-09-30 at 8 17 41 PM" src="https://user-images.githubusercontent.com/100493743/193384426-a08c454d-ef6e-4a28-87a7-ec963cce529e.png">
 
 In this step the second time while loging in I didnt have to add my password , I follwed the following commands-
