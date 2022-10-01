@@ -12,4 +12,13 @@ cat /home/linux/ieng6/cs15lfa22/public/hello.txt<img width="781" alt="Screen Sho
 I had java installed my sytem so I first ran the file WhereAmI.java using that then I used the scp command and tried again I got the same output both the times
 The command was scp WhereAmI.java xxxx@ieng6.ucsd.edu:~/
 <img width="803" alt="Screen Shot 2022-09-30 at 8 04 16 PM" src="https://user-images.githubusercontent.com/100493743/193384144-91495a0e-c765-45d8-a507-aafd8017c4eb.png">
-The step where I have to login without the password didn't work for me, even though I followed all the steps , I intend to attend the office hours this week and setup by cs15lfa22 ssh account, because I have tried everything but it is still not working. 
+<img width="802" alt="Screen Shot 2022-09-30 at 8 15 10 PM" src="https://user-images.githubusercontent.com/100493743/193384374-819d1ac4-0a32-4b6e-a4bd-f272cc9ec8d3.png"><img width="785" alt="Screen Shot 2022-09-30 at 8 17 41 PM" src="https://user-images.githubusercontent.com/100493743/193384426-a08c454d-ef6e-4a28-87a7-ec963cce529e.png">
+
+In this step the second time while loging in I didnt have to add my password , I follwed the following commands-
+ssh-keygen
+ssh xxxx@ieng6.ucsd.edu:
+mkdir .ssh
+<logout>
+login again
+then the command
+ssh dbhalothia@ieng6.ucsd.edu "ls"
