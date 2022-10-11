@@ -32,7 +32,7 @@ The command was scp WhereAmI.java xxxx@ieng6.ucsd.edu:~/
 
 <img width="943" alt="Screen Shot 2022-10-11 at 12 15 51 PM" src="https://user-images.githubusercontent.com/100493743/195179409-9cb52702-b75b-4af6-b127-2f537f9f560d.png">
 <img width="630" alt="Screen Shot 2022-10-11 at 12 16 05 PM" src="https://user-images.githubusercontent.com/100493743/195179461-61739254-aa23-45f4-8153-5cd5b2990291.png">
-<img width="938" alt="Screen Shot 2022-10-11 at 12 30 50 PM" src="https://user-images.githubusercontent.com/100493743/195181829-ba7a63e4-cf97-4cb7-a4f4-f4c909be3d7c.png">
+<img width="946" alt="Screen Shot 2022-10-11 at 12 35 00 PM" src="https://user-images.githubusercontent.com/100493743/195182767-f7845b6d-51c9-4a9b-b8e8-6c17da5b0dc2.png">
 
 In this I succesfully logged into my ssh login without entering the password
 First I used the ssh-keygen command to create a key for my password
