@@ -40,7 +40,9 @@ After that using the ssh login mkdir. ssh and exit commands and using the spc co
 After that as you can see I logged in using ssh cs15lfa22xx@ieng6.ucsd.edu without needing to enter the password
 
 
-<img width="941" alt="Screen Shot 2022-10-11 at 12 45 08 PM" src="https://user-images.githubusercontent.com/100493743/195184500-6dab39c8-a4b3-4d85-8777-b7d807861552.png">
+<img width="941" alt="Screen Shot 2022-10-11 at 12 45 08 PM" src="https://user-images.githubusercontent.com/100493743/195184500-6dab39c8-a4b3-4d85-8777-b7d807861552.png"><img width="642" alt="Screen Shot 2022-10-11 at 12 48 50 PM" src="https://user-images.githubusercontent.com/100493743/195185209-68e46f2a-c76b-49de-9a5f-093c3b4a919b.png">
+
 
 I added another print statemnt saying "My name is dia"
-While I ran the program the program and this was the output
+Then I copied the file using scp, loggen used ssh then after using the ls command and running the program I got this output
+WHich is same output + my name is dia
