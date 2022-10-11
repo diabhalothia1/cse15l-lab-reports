@@ -45,4 +45,4 @@ After that as you can see I logged in using ssh cs15lfa22xx@ieng6.ucsd.edu witho
 
 I added another print statemnt saying "My name is dia"
 Then I copied the file using scp, loggen used ssh then after using the ls command and running the program I got this output
-WHich is same output + my name is dia
+Which is same output + my name is dia
