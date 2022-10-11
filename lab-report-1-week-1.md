@@ -6,11 +6,14 @@ needed for MAC OS.
 I set up by cse15l account before the second lab so for this revison Im using that account, I logged using the ssh command and entered my password to login
 Command-ssh cs15lfazz@ieng6.ucsd.edu
 where zz is unique depending on your username
-<img width="873" alt="Screen Shot 2022-09-30 at 7 38 35 PM" src="https://user-images.githubusercontent.com/100493743/193379878-f90c2e0e-a4e7-4988-a4d5-6cbb7b010655.png">
-I tried multiple commands on my ssh account such as cd~, cd, las
+<img width="775" alt="Screen Shot 2022-10-11 at 12 35 32 AM" src="https://user-images.githubusercontent.com/100493743/195024874-2bf53fda-a36c-4f9f-8fb0-27d0e39a2916.png">
+
+I tried multiple commands on my ssh account such as cd ~, cd, las
+<img width="733" alt="Screen Shot 2022-10-11 at 12 36 08 AM" src="https://user-images.githubusercontent.com/100493743/195024999-80410e02-8102-42d6-8beb-5da1b71cbd02.png">
 Some other commands i tried were-
 cp /home/linux/ieng6/cs15lfa22/public/hello.txt ~/
-cat /home/linux/ieng6/cs15lfa22/public/hello.txt<img width="781" alt="Screen Shot 2022-09-30 at 7 44 06 PM" src="https://user-images.githubusercontent.com/100493743/193380037-629134bf-f31d-4522-8ce6-de0cf29a19fe.png">
+cat /home/linux/ieng6/cs15lfa22/public/hello.txt
+<img width="781" alt="Screen Shot 2022-09-30 at 7 44 06 PM" src="https://user-images.githubusercontent.com/100493743/193380037-629134bf-f31d-4522-8ce6-de0cf29a19fe.png">
 I had java installed my sytem so I first ran the file WhereAmI.java using that then I used the scp command and tried again I got the same output both the times
 The command was scp WhereAmI.java xxxx@ieng6.ucsd.edu:~/
 <img width="799" alt="Screen Shot 2022-09-30 at 8 19 29 PM" src="https://user-images.githubusercontent.com/100493743/193384485-460e5aaa-3bc8-4f2b-952f-0c3fa321998d.png">
