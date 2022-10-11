@@ -40,3 +40,7 @@ After that using the ssh login mkdir. ssh and exit commands and using the spc co
 After that as you can see I logged in using ssh cs15lfa22xx@ieng6.ucsd.edu without needing to enter the password
 
 
+<img width="941" alt="Screen Shot 2022-10-11 at 12 45 08 PM" src="https://user-images.githubusercontent.com/100493743/195184500-6dab39c8-a4b3-4d85-8777-b7d807861552.png">
+
+I added another print statemnt saying "My name is dia"
+While I ran the program the program and this was the output
