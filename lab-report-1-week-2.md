@@ -97,3 +97,20 @@ class SearchEngine {
   We were making changes to the oringinal code, so after running the method first time the original list got changes and thus, the output was wrong
   I fixed the bug by creating a copy of the original list and instead of referencing the orginal list I refernced the copy, and thus we will get the right output.
   
+  
+  File-ListExamples.java
+  Method-merge
+  
+ Test That failed Output
+ All the test will run the program nut nome would pass the test
+ 
+ Symptom
+ The program is stuck in infite loop
+ 
+  <img width="298" alt="Screen Shot 2022-10-14 at 9 05 23 PM" src="https://user-images.githubusercontent.com/100493743/195967974-c91bf232-14ca-4f3c-b952-9e34cf8de02d.png">
+This, index 2 will always be smaller than the size of list 2
+
+Bug
+<img width="398" alt="Screen Shot 2022-10-14 at 9 06 07 PM" src="https://user-images.githubusercontent.com/100493743/195967989-15570def-8175-4e85-85bc-299cec1de7f3.png">
+
+Incrementing teh value of index 2 in the second loop so that eventual the while loop terminates. 
