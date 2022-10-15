@@ -56,13 +56,13 @@ class SearchEngine {
 
   This screenshot is for the first part-the add method of the code, it shows all the things I added to the list by using the add query
   
-  Everytime I run the code this list is reset and losses its orginal values and I can add new Values again
+  Everytime I run the code this list is reset and losses its orginal values and rest an empty list and I can add new Values again
   
   <img width="500" alt="Screen Shot 2022-10-14 at 8 46 43 PM" src="https://user-images.githubusercontent.com/100493743/195967451-57ed45da-1fb4-4811-b6e4-f142e3b7d69b.png">
  
-  The second screenshot shows the search Menthod, in this screenshot I have search 'app' in my oringinal list and got the elements that had 'app' in them
+  The second screenshot shows the search Method, in this screenshot I have search 'app' in my original list and got the elements that had 'app' in them
   
-  For this we can only run this method along with the pp query cause we close the webserver after running the add query when we open the server again it will have an empty list
+  For this we can only run this method along with the add query cause if we close the webserver after running the add query when we open the server again it will have an empty list
   
   Part 2
   File-ArrayExample
@@ -94,7 +94,7 @@ class SearchEngine {
   }
   
   
-  We were making changes to the oringinal code, so after running the method first time the original list got changes and thus, the output was wrong
+  We were making changes to the original code, so after running the method first time the original list got changes and thus, the output was wrong
   I fixed the bug by creating a copy of the original list and instead of referencing the orginal list I refernced the copy, and thus we will get the right output.
   
   
