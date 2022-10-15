@@ -1,4 +1,4 @@
-'import java.io.IOException;
+`import java.io.IOException;
 import java.net.URI;
 import java.util.*; 
 
@@ -65,3 +65,24 @@ class SearchEngine {
   For this we can only run this method along with the pp query cause we close the webserver after running the add query when we open the server again it will have an empty list
   
   Part 2
+  File-ArrayExample
+  Method-ReverseInPlace
+  Test That failed Output
+  @Test 
+	public void testReverseInPlace1() {
+    int[] input2={3,4,5};
+    ArrayExamples.reverseInPlace(input2);
+    assertArrayEquals(new int[]{ 5,4,3 }, input2);
+  }
+  Symptom/ Wrong Output
+  -5,4,5
+  The bug
+  static void reverseInPlace(int[] arr) {
+    int[] Parameter =arr;
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = Parameter[arr.length - i - 1];
+    }
+  }
+  We were making changes to the oringinal code, so after running the method first time the original list got changes and thus, the output was wrong
+  I fixed the bug by creating a copy of the original list and instead of referencing the orginal list I refernced the copy, and thus we will get the right output.
+  
