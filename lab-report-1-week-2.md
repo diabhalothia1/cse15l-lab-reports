@@ -116,4 +116,4 @@ Bug
 
 <img width="398" alt="Screen Shot 2022-10-14 at 9 06 07 PM" src="https://user-images.githubusercontent.com/100493743/195967989-15570def-8175-4e85-85bc-299cec1de7f3.png">
 
-Incrementing the value of index 2 in the second loop so that eventual the while loop terminates. 
+Incrementing the value of index 2 in the second loop so that eventually the while loop terminates. 
