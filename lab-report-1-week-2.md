@@ -65,6 +65,8 @@ class SearchEngine {
   For this we can only run this method along with the add query cause if we close the webserver after running the add query when we open the server again it will have an empty list
   
   Part 2
+  
+  
   File-ArrayExample
   Method-ReverseInPlace
   
@@ -72,26 +74,19 @@ class SearchEngine {
   Test That failed Output
   
   
-  @Test 
-	public void testReverseInPlace1() {
-    int[] input2={3,4,5};
-    ArrayExamples.reverseInPlace(input2);
-    assertArrayEquals(new int[]{ 5,4,3 }, input2);
-  }
-  
+ <img width="538" alt="Screen Shot 2022-10-27 at 1 40 30 PM" src="https://user-images.githubusercontent.com/100493743/198393505-403a989c-fd3d-4ef8-a50f-c03785bf8f8a.png">
+
   
   Symptom/ Wrong Output
   
-  -5,4,5
+  -<img width="915" alt="Screen Shot 2022-10-27 at 1 41 44 PM" src="https://user-images.githubusercontent.com/100493743/198393716-c8f8407b-0cfc-4203-9762-83d5ca35af55.png">
+
   
   The bug
   
-  static void reverseInPlace(int[] arr) {
-    int[] Parameter =arr;
-    for(int i = 0; i < arr.length; i += 1) {
-      arr[i] = Parameter[arr.length - i - 1];
-    }
-  }
+
+  <img width="530" alt="Screen Shot 2022-10-27 at 1 42 49 PM" src="https://user-images.githubusercontent.com/100493743/198393916-cae90de7-3139-4284-8230-5ae817ebd507.png">
+
   
   
   We were making changes to the original code, so after running the method first time the original list got changes and thus, the output was wrong
