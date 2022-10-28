@@ -55,12 +55,23 @@ class SearchEngine {
   <img width="397" alt="Screen Shot 2022-10-14 at 8 41 13 PM" src="https://user-images.githubusercontent.com/100493743/195967353-af6c11ca-ab57-4869-95a5-67f528aa4e8c.png">
 
   This screenshot is for the first part-the add method of the code, it shows all the things I added to the list by using the add query
+  The first step checks that if the url contains /add and then it splits the query by looking for the '=' sign in an array
+  Then it checks if the first elements of array created by the quesry is s and if that is true if adds the second element from the array created by the query to a new array.
+  Then using a for loop all elements of s are returned in a string format.
   
-  Everytime I run the code this list is reset and losses its orginal values and rest an empty list and I can add new Values again
+  Everytime I run the code this list is reset and losses its orginal values and sets an empty list and I can add new Values again
   
   <img width="500" alt="Screen Shot 2022-10-14 at 8 46 43 PM" src="https://user-images.githubusercontent.com/100493743/195967451-57ed45da-1fb4-4811-b6e4-f142e3b7d69b.png">
+  
+  
  
   The second screenshot shows the search Method, in this screenshot I have search 'app' in my original list and got the elements that had 'app' in them
+  
+  The first step checks that if the url contains /search and then it splits the query by looking for the '=' sign in an array
+  
+  Then it checks if the first elements of array created by the query is s and if that is true it goes into a for loop iternating through the array created by the add method, then it checks if the array contains the element in the array created by the query, if it does the element is added to the new array created by us
+  
+  After iternating through the for loop it returns the new array by converting it to a string
   
   For this we can only run this method along with the add query cause if we close the webserver after running the add query when we open the server again it will have an empty list
   
