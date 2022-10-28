@@ -97,12 +97,17 @@ class SearchEngine {
   Method-merge
   
  Test That failed Output
- All the test will run the program but none would pass the test
  
+ <img width="1016" alt="Screen Shot 2022-10-28 at 3 53 57 PM" src="https://user-images.githubusercontent.com/100493743/198747829-c017817d-9fe7-4908-a406-b31fdfbc7a8c.png">
+
+
  Symptom: The program is stuck in infite loop
  
   <img width="298" alt="Screen Shot 2022-10-14 at 9 05 23 PM" src="https://user-images.githubusercontent.com/100493743/195967974-c91bf232-14ca-4f3c-b952-9e34cf8de02d.png">
   
+  
+  <img width="617" alt="Screen Shot 2022-10-28 at 3 52 33 PM" src="https://user-images.githubusercontent.com/100493743/198747784-7150d883-5438-4d52-999d-bffe08283432.png">
+
   
 This, index 2 will always be smaller than the size of list 2
 
