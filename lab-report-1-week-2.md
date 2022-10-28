@@ -1,3 +1,5 @@
+PART 1
+
 `import java.io.IOException;
 import java.net.URI;
 import java.util.*; 
@@ -77,6 +79,14 @@ class SearchEngine {
   After iternating through the for loop it returns the new array by converting it to a string
   
   For this we can only run this method along with the add query cause if we close the webserver after running the add query when we open the server again it will have an empty list
+  
+  
+  <img width="527" alt="Screen Shot 2022-10-28 at 4 26 38 PM" src="https://user-images.githubusercontent.com/100493743/198750204-33935df2-a891-4997-84b3-1facb0448a03.png">
+
+
+This screenshot shows that if tries to do anything except add or search , it will show an error that 404 page not found!
+  
+  
   
   Part 2
   
