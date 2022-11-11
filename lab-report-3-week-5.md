@@ -13,7 +13,7 @@ Example of using -n
   I used this to find the appearence of "unknown" in the file "chapter-1.txt"
   
   
-      <img width="720" alt="Screen Shot 2022-11-11 at 2 02 21 PM" src="https://user-images.githubusercontent.com/100493743/201440008-0a77db25-4531-4b17-beed-403b76bbe3a6.png">
+ <img width="720" alt="Screen Shot 2022-11-11 at 2 02 21 PM" src="https://user-images.githubusercontent.com/100493743/201440008-0a77db25-4531-4b17-beed-403b76bbe3a6.png">
 
   2.You can use this file to search a keyword through multiple files nad get line numbers in all these l=files which contain that keyowrd
   
@@ -22,7 +22,7 @@ Example of using -n
   
     I used this to find the apperaence of unknown in all the files of government
   
-      <img width="775" alt="Screen Shot 2022-11-11 at 2 30 57 PM" src="https://user-images.githubusercontent.com/100493743/201439901-d0bee16c-754f-451c-8857-76e365f54915.png">
+ <img width="775" alt="Screen Shot 2022-11-11 at 2 30 57 PM" src="https://user-images.githubusercontent.com/100493743/201439901-d0bee16c-754f-451c-8857-76e365f54915.png">
 
     
   
