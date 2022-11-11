@@ -12,7 +12,8 @@ Example of using -n
   
   I used this to find the appearence of "unknown" in the file "chapter-1.txt"
   
-  <img width="720" alt="Screen Shot 2022-11-11 at 2 02 21 PM" src="https://user- images.githubusercontent.com/100493743/201438714-52b060f5-af3b-429b-96a0-875dbca11c2b.png">
+  
+      <img width="720" alt="Screen Shot 2022-11-11 at 2 02 21 PM" src="https://user-images.githubusercontent.com/100493743/201440008-0a77db25-4531-4b17-beed-403b76bbe3a6.png">
 
   2.You can use this file to search a keyword through multiple files nad get line numbers in all these l=files which contain that keyowrd
   
