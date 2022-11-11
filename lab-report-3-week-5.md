@@ -20,11 +20,21 @@ Example of using -n
     The code for using -n to get the line number of lines conatining that keyword-\
     'grep -n <keyword> <filepath>
   
-    I used this to find the apperaence of unknown in all the files of government
+    I used this to find the apperaence of "unprecented" in all the files of government
   
  <img width="775" alt="Screen Shot 2022-11-11 at 2 30 57 PM" src="https://user-images.githubusercontent.com/100493743/201439901-d0bee16c-754f-451c-8857-76e365f54915.png">
+  
+  
+  3.You can use this command to find all the digits in a file
+  
+  The code for using -n to get the line number of lines conatining that keyword-\
+    'grep -n "^[[:digits:]] <filepath>
+  
+  I used this to find the digits in 
+  
 
-    
+    <img width="815" alt="Screen Shot 2022-11-11 at 2 50 25 PM" src="https://user-images.githubusercontent.com/100493743/201441499-ffe626b3-1e01-4445-8d01-2881298712fe.png">
+
   
   
   
