@@ -1,7 +1,7 @@
 
 The command I'm going to explore is <span style="color: red;">GREP</span> 
 
-1. -n
+a) -n
 
 Example of using -n
 
@@ -39,7 +39,7 @@ Example of using -n
 <img width="815" alt="Screen Shot 2022-11-11 at 2 50 25 PM" src="https://user-images.githubusercontent.com/100493743/201447234-c9a39c4a-bc8e-4e34-8be2-86d20a99bc02.png">
 
 
-2.-r
+b)-r
 
 Examples of using -r
 
@@ -111,6 +111,7 @@ The code to use -c to get the line that have a specific pattern in a file
   
       grep -c "pattern" <file>
       
-I used this to find the no<img width="562" alt="Screen Shot 2022-11-11 at 7 14 14 PM" src="https://user-images.githubusercontent.com/100493743/201453981-6edcd773-cdda-43e6-9f01-06be3c6b7b6d.png">
- of lines that contain "purpose" in technical/911report/*.txt"
+I used this to find the no of lines that contain "purpose" in technical/911report/*.txt
+
+<img width="562" alt="Screen Shot 2022-11-11 at 7 14 14 PM" src="https://user-images.githubusercontent.com/100493743/201453981-6edcd773-cdda-43e6-9f01-06be3c6b7b6d.png">
 
