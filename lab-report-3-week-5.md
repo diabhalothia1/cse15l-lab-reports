@@ -77,8 +77,22 @@ The code to use -r to get a specific pattern in a dirctory
   
       grep -r -i "pattern" <directory>
       
-I used this to find "UNKNOWN" in technical
+I used this to find "UNKNOWN" in 911report
 
 <img width="1440" alt="Screen Shot 2022-11-11 at 6 53 31 PM" src="https://user-images.githubusercontent.com/100493743/201453322-387cf902-1c6c-4935-814c-6456125b8618.png">
+
+c)-c
+
+1)It can be used to count the number of lines that have a certain pattern in a file
+
+
+The code to use -c to get the line that have a specific pattern in a file
+  
+      grep -c "pattern" <directory>
+      
+I used this to find the no of lines that contain "unknown" in chapter-1.txt
+
+
+<img width="564" alt="Screen Shot 2022-11-11 at 6 58 02 PM" src="https://user-images.githubusercontent.com/100493743/201453493-63abaca3-da63-4409-9239-73be43b83106.png">
 
 
