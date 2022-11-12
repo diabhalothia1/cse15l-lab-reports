@@ -88,11 +88,19 @@ c)-c
 
 The code to use -c to get the line that have a specific pattern in a file
   
-      grep -c "pattern" <directory>
+      grep -c "pattern" <file>
       
 I used this to find the no of lines that contain "unknown" in chapter-1.txt
 
 
 <img width="564" alt="Screen Shot 2022-11-11 at 6 58 02 PM" src="https://user-images.githubusercontent.com/100493743/201453493-63abaca3-da63-4409-9239-73be43b83106.png">
 
+2)It counts the no. of the line a pattern occurs in a certain structure of files
 
+The code to use -c to get the line that have a specific pattern in a file
+  
+      grep -c "pattern" <structure>
+      
+I used this to find the no of lines that contain "purpose" in */*/*.txt
+
+<img width="534" alt="Screen Shot 2022-11-11 at 7 05 59 PM" src="https://user-images.githubusercontent.com/100493743/201453732-73a64611-d8ac-4b2d-a71a-d31a937780f7.png">
