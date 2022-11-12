@@ -71,3 +71,14 @@ This not only give me other directories but also the files in those directories 
 
 <img width="1031" alt="Screen Shot 2022-11-11 at 5 38 56 PM" src="https://user-images.githubusercontent.com/100493743/201453059-0bb4284c-2fe1-4cf6-ab77-a7d7aa01eb64.png">
 
+3.We can use it with the -i command to ingore the case sensitivty and find the papptern in all the files in a directory
+
+The code to use -r to get a specific pattern in a dirctory 
+  
+      grep -r -i "pattern" <directory>
+      
+I used this to find "UNKNOWN" in technical
+
+<img width="1440" alt="Screen Shot 2022-11-11 at 6 53 31 PM" src="https://user-images.githubusercontent.com/100493743/201453322-387cf902-1c6c-4935-814c-6456125b8618.png">
+
+
