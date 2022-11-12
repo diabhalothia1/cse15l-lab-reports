@@ -55,3 +55,17 @@ Examples of using -r
   
   <img width="1440" alt="Screen Shot 2022-11-11 at 4 33 20 PM" src="https://user-images.githubusercontent.com/100493743/201449779-c1113cca-2a32-4a3c-856c-1e695829b530.png">
 
+
+2.You can even find a pattern in a larger directrory with other directories and the files in them
+
+The code to use -r to get a specific pattern in a dirctory 
+  
+      grep -r "pattern" <directory>
+      
+I used this to find "largely" in technical
+This not only give me other directories but also the files in those directories that contain largely
+
+<img width="1015" alt="Screen Shot 2022-11-11 at 5 31 46 PM" src="https://user-images.githubusercontent.com/100493743/201453018-dfa24d9d-fc42-467a-80d2-57855faaa88a.png">
+
+<img width="995" alt="Screen Shot 2022-11-11 at 5 32 03 PM" src="https://user-images.githubusercontent.com/100493743/201453021-9669f698-9503-4728-a6c2-a378e45cd02c.png">
+<img width="1011" alt="Screen Shot 2022-11-11 at 5 37 26 PM" src="https://user-images.githubusercontent.com/100493743/201453023-0d436b6d-02d4-4b76-b3e9-6b8ae965f48b.png">
