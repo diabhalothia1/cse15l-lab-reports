@@ -67,5 +67,7 @@ This not only give me other directories but also the files in those directories 
 
 <img width="1015" alt="Screen Shot 2022-11-11 at 5 31 46 PM" src="https://user-images.githubusercontent.com/100493743/201453018-dfa24d9d-fc42-467a-80d2-57855faaa88a.png">
 
-<img width="995" alt="Screen Shot 2022-11-11 at 5 32 03 PM" src="https://user-images.githubusercontent.com/100493743/201453021-9669f698-9503-4728-a6c2-a378e45cd02c.png">
 <img width="1011" alt="Screen Shot 2022-11-11 at 5 37 26 PM" src="https://user-images.githubusercontent.com/100493743/201453023-0d436b6d-02d4-4b76-b3e9-6b8ae965f48b.png">
+
+<img width="1031" alt="Screen Shot 2022-11-11 at 5 38 56 PM" src="https://user-images.githubusercontent.com/100493743/201453059-0bb4284c-2fe1-4cf6-ab77-a7d7aa01eb64.png">
+
