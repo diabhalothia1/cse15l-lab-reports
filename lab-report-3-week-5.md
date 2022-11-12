@@ -9,7 +9,7 @@ Example of using -n
 
   The code for using -n to get the line number of lines conatining that keyword-\
   
-  'grep -n "keyword" <filepath>'
+  'grep -n "keyword" <file>'
   
   I used this to find the appearence of "unknown" in the file "chapter-1.txt"
   
@@ -19,7 +19,8 @@ Example of using -n
   2.You can use this file to search a keyword through multiple files nad get line numbers in all these l=files which contain that keyowrd
   
     The code for using -n to get the line number of lines conatining that keyword-\
-  'grep -n "keyword" <filepath>'
+  
+  'grep -n "keyword" <file>'
   
     I used this to find the apperaence of "unprecented" in all the files of government
   
@@ -30,7 +31,7 @@ Example of using -n
   
   The code for using -n to get the line number of lines conatining that keyword-\
   
-    'grep -n "^[[:digits:]]" <filepath>'
+    'grep -n "^[[:digits:]]" <file>'
   
   I used this to find the digits in 
   
