@@ -101,6 +101,16 @@ The code to use -c to get the line that have a specific pattern in a file
   
       grep -c "pattern" <structure>
       
-I used this to find the no of lines that contain "purpose" in */*/*.txt
+I used this to find the no of lines that contain "purpose" in "*/*/*.txt"
 
 <img width="534" alt="Screen Shot 2022-11-11 at 7 05 59 PM" src="https://user-images.githubusercontent.com/100493743/201453732-73a64611-d8ac-4b2d-a71a-d31a937780f7.png">
+
+3)We can also use to find the no. of appearences of a pattern in all the files of a directory 
+
+The code to use -c to get the line that have a specific pattern in a file
+  
+      grep -c "pattern" <file>
+      
+I used this to find the no<img width="562" alt="Screen Shot 2022-11-11 at 7 14 14 PM" src="https://user-images.githubusercontent.com/100493743/201453981-6edcd773-cdda-43e6-9f01-06be3c6b7b6d.png">
+ of lines that contain "purpose" in technical/911report/*.txt"
+
