@@ -33,10 +33,10 @@ Example of using -n
   
     grep -n "^[[:digits:]]" <file>
   
-  I used this to find the digits in 
+  I used this to find the digits in Mitchell-Mit.txt 
   
 
-    <img width="815" alt="Screen Shot 2022-11-11 at 2 50 25 PM" src="https://user-images.githubusercontent.com/100493743/201441499-ffe626b3-1e01-4445-8d01-2881298712fe.png">
+<img width="815" alt="Screen Shot 2022-11-11 at 2 50 25 PM" src="https://user-images.githubusercontent.com/100493743/201447234-c9a39c4a-bc8e-4e34-8be2-86d20a99bc02.png">
 
   
   
