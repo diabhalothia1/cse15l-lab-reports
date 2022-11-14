@@ -33,6 +33,6 @@ Code to change all start paramaters-
   
  Making the edit second way-15 mins , I was stuck for a bit on running the tests on the ssh server and making the dit took more time
   
-  I would prefer working the first way beacuse I feel more comfortable making the edit first and then running the file on the remote server by scp the file , whereas on the ssh login I felt it was a little more hard because it took me more time and I felt it hard to understand where I was going wromng
+  I would prefer working the first way beacuse I feel more comfortable making the edit first and then running the file on the remote server by scp the file , whereas on the ssh login I felt it was a little more hard because it took me more time and I felt it hard to understand where I was going wrong
   
   I would prefer scp the file and running on the remote server but if i have a file on multiple servers and I want it change in all of them, I would prefer taking the second option and making the edit on the remote server and running it there.
