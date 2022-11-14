@@ -26,10 +26,12 @@ Code to change all start paramaters-
   
 <img width="844" alt="Screen Shot 2022-11-14 at 9 05 45 AM" src="https://user-images.githubusercontent.com/100493743/201723087-47bdf24e-9037-439a-82ee-63cae87f327e.png">
   
+ PART 2
+  
   
  Making the edit the first way-10 mins
   
- Making the edit second way-15 mins , I was stuck for a bit on ruuning the tests on the ssh server
+ Making the edit second way-15 mins , I was stuck for a bit on running the tests on the ssh server and making the dit took more time
   
   I would prefer working the first way beacuse I feel more comfortable making the edit first and then running the file on the remote server by scp the file , whereas on the ssh login I felt it was a little more hard because it took me more time and I felt it hard to understand where I was going wromng
   
