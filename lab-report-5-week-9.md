@@ -46,3 +46,16 @@ fi
 
 ```
 **Screenshots of the files testing my grade script** 
+
+1.https://github.com/ucsd-cse15l-f22/list-methods-corrected, which has the methods corrected (I would expect this to get full or near-to-full credit)
+
+<img width="772" alt="Screen Shot 2022-11-28 at 1 42 47 AM" src="https://user-images.githubusercontent.com/100493743/204247910-a377b4c8-f867-4701-a5ea-6726da506b29.png">
+
+
+2.https://github.com/ucsd-cse15l-f22/list-methods-compile-error, which has a syntax error of a missing semicolon. 
+
+<img width="784" alt="Screen Shot 2022-11-28 at 1 42 21 AM" src="https://user-images.githubusercontent.com/100493743/204248091-7383f33e-2e0f-4c83-a0bd-dc4862c80589.png">
+
+3.https://github.com/ucsd-cse15l-f22/list-methods-filename
+
+<img width="812" alt="Screen Shot 2022-11-28 at 1 41 49 AM" src="https://user-images.githubusercontent.com/100493743/204248290-2175ff34-03aa-4446-aef2-bbe259a92187.png">
