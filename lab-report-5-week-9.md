@@ -6,7 +6,7 @@ rm -rf student-submission
 git clone $1 student-submission
 RESULT="0"
 
-# check if ListExamples.java exists
+# check if contains the file ListExamples.java
 cd student-submission
 if [ -f ListExamples.java ]
 then
@@ -23,7 +23,7 @@ cp TestListExamples.java student-submission/
 cd student-submission
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
 
-# check that the compile went fine
+# checks if the code complies
 if [ $? -eq 00 ]
 then
     echo "Compilation succeeded"
@@ -35,6 +35,7 @@ fi
 
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples
 
+#checks if its passes all the test cases written in ListExamples.java
 if [ $? -eq 00 ]
 then
     RESULT=2
