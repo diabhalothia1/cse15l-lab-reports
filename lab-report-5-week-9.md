@@ -63,10 +63,13 @@ fi
 Tracing the path for the repository with the wrong file name:
 
  |**Comamand**     |**Standard output**     |**Standard Error**                         |**Exit Code**  
+ _____________________________________________________________________________________________________
+ 
  |rm -rf           |   -                    |   -                                       |0
- |                 |                        |                                           |
+__________________________________________________________________________________________________                                                                
  |git clone        |   -                    |   Cloning into 'student-submission'...    |0
- |                 |                        |                                           |
+ _____________________________________________________________________________________________________
+
  |cd               |   -                    |   -                                       |1
 
 2. The first if statement that checks if the directory contains the file is false because this repository does not contain the ListExamples.java
