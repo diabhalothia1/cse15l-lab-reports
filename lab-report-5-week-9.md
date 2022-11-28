@@ -45,3 +45,4 @@ else
 fi
 
 ```
+**Screenshots of the files testing my grade script** 
