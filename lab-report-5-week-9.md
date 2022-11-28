@@ -62,6 +62,8 @@ fi
 
 Tracing the path for the repository with the wrong file name:
 
+1.
+
  |**Comamand**     |**Standard output**     |**Standard Error**                         |**Exit Code**  
  _____________________________________________________________________________________________________
  
@@ -71,6 +73,8 @@ ________________________________________________________________________________
  _____________________________________________________________________________________________________
 
  |cd               |   -                    |   -                                       |1
+
+
 
 2. The first if statement that checks if the directory contains the file is false because this repository does not contain the ListExamples.java
  
