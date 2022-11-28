@@ -13,7 +13,7 @@ then
     echo "ListExamples.java file found"
 else
     echo "ListExamples.java file not found"
-    echo "Grade is: "$RESULT
+    echo "Result is: "$RESULT
     exit 1
 fi
 
