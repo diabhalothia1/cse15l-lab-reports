@@ -60,8 +60,11 @@ fi
 
 <img width="812" alt="Screen Shot 2022-11-28 at 1 41 49 AM" src="https://user-images.githubusercontent.com/100493743/204248290-2175ff34-03aa-4446-aef2-bbe259a92187.png">
 
-Tracing the path for the repository with the wromg name:
-1.
+Tracing the path for the repository with the wrong file name:
+
+1.rm -rf
+  git clone
+  cd
 
 2. The first if statement that checks if the directory contains the file is false because this repository does not contain the ListExamples.java
    The second if statement which check if the code complies is true but does not run due to the early exit for the code
