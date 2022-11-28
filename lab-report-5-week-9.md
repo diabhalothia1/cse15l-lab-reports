@@ -73,14 +73,16 @@ Tracing the path for the repository with the wrong file name:
  |cd               |   -                    |   -                                       |1
 
 
-
-2. The first if statement that checks if the directory contains the file is false because this repository does not contain the ListExamples.java
+2. 
+The first if statement that checks if the directory contains the file is false because this repository does not contain the ListExamples.java
  
-   The second if statement which check if the code complies is true but does not run due to the early exit for the code
+The second if statement which check if the code complies is true but does not run due to the early exit for the code
    
-   The third if statement which checks if it passes the test case is true but it doesn not run due to an early exit from the script
+The third if statement which checks if it passes the test case is true but it doesn not run due to an early exit from the script
    
-3.These code lines do not run-
+   
+3.
+These code lines do not run-
 
 ```
 cd ..
