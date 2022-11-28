@@ -62,9 +62,11 @@ fi
 
 Tracing the path for the repository with the wromg name:
 1.
+
 2. The first if statement that checks if the directory contains the file is false because this repository does not contain the ListExamples.java
-   The second if statement which check if the code complies is also false in this case because it does not run due to the early exit for the code
-   The third if statement which checks if it passes the test case also fails because it doesn not run due to an early exit from the script
+   The second if statement which check if the code complies is true but does not run due to the early exit for the code
+   The third if statement which checks if it passes the test case is true but it doesn not run due to an early exit from the script
+   
 3.These code lines do not run-
 ```
 cd ..
