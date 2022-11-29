@@ -11,11 +11,15 @@ Code to change all start paramaters-
 
 ```
   
-  
-  <img width="145" alt="Screen Shot 2022-11-14 at 9 04 06 AM" src="https://user-images.githubusercontent.com/100493743/201722241-3b9bddf5-2110-4fe3-8bd7-543f87f3880f.png">
-  
-  
-<img width="33" alt="Screen Shot 2022-11-14 at 9 05 10 AM" src="https://user-images.githubusercontent.com/100493743/201722255-da44437d-ea32-4f8c-9a69-4dbeea743fa1.png">
+ <img width="797" alt="Screen Shot 2022-11-29 at 3 31 26 PM" src="https://user-images.githubusercontent.com/100493743/204672048-32f01211-936b-4982-a35a-d3d54274cfe1.png">
+
+<img width="907" alt="Screen Shot 2022-11-29 at 3 31 40 PM" src="https://user-images.githubusercontent.com/100493743/204672080-55af6e35-5a92-47e8-83dd-6437e38abad1.png">
+
+<img width="881" alt="Screen Shot 2022-11-29 at 3 31 53 PM" src="https://user-images.githubusercontent.com/100493743/204672109-73cb3835-980d-4512-a4b3-0615b277ba31.png">
+
+<img width="923" alt="Screen Shot 2022-11-29 at 3 32 01 PM" src="https://user-images.githubusercontent.com/100493743/204672145-de34e635-cd0a-4152-81c5-c457f2429599.png">
+
+
 
  Explanation of vim code-
   
