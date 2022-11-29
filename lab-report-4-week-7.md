@@ -25,7 +25,9 @@ Code to change all start paramaters-
   
   :s is used to substute a certain word in the file with another word
   
-  :%s goes through entire file looking for the work to be subsituted and /g substitues all the appearences of that word in the entire file
+  :%s goes through entire file looking for the work to be subsituted 
+  
+  /g substitues all the appearences of that word in the entire file
   
   :w is used to save the changes into the file
   
